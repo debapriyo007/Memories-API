@@ -1,5 +1,4 @@
-
-# Memories API
+# Memories API 👨‍💻
 
 The **Memories API** is a RESTful web service that allows users to create, read, update, and delete (CRUD) memory entries. Ideal for applications like personal journals, timelines, or memory-sharing platforms.
 
